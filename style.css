@@ -1,0 +1,94 @@
+body {
+    background-color: #292929;
+    padding: auto;
+    margin: auto;
+    max-width: 1500px;
+
+    
+}
+header{
+    background: #000000;
+    max-width: 12px auto;
+    max-width: 12px auto;
+    text-align: center;
+    
+}
+a{
+    color: azure;
+    font-family: Arial;
+    font-size: 16pt;
+}
+a:hover{
+    color:tomato
+}
+
+.corpo{
+    background: #000000;
+    background-color:#828181 ;
+    font-family: arial;
+    font-size: 14px;
+    color: azure;
+    padding: 25px ;
+}
+h1{
+    max-width: 12px auto;
+    max-width: 12px auto;
+    text-align: center;
+
+}
+h2{
+    max-width: 12px auto;
+    max-width: 12px auto;
+    text-align:justify;  
+}
+.space{
+    margin-bottom: 35pt;
+}
+.container {
+    display: flex;
+    max-width: 600px;
+    max-height: 600px;
+}
+.imagem, .texto {
+    flex: auto;
+    margin: 25px;
+    background: #000000;
+    background-color:#828181 ;
+    font-family: arial;
+    font-size: 18px;
+    color: azure;
+    padding: 15px ;
+    text-align: center;
+
+}
+
+.container2 {
+    display: flex;
+    max-width: 1358px;
+    max-height: 764px;
+}
+.imagem2, .texto2 {
+    flex: auto;
+    margin: 25px;
+    background: #000000;
+    background-color:#828181 ;
+    font-family: arial;
+    font-size: 18px;
+    color: azure;
+    padding: 15px ;
+}
+.veja{
+    font-size: 24pt;
+}
+.txtbase{
+    background: #000000;
+    background-color:#828181 ;
+    font-family: arial;
+    font-size: 16px;
+    color: azure;
+    padding: 25px ;
+}
+.cit{
+    font-size: 10px;
+    text-align: left;
+}
